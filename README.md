@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/github-explorer">
-  <a href="https://www.linkedin.com/in/joaopaulorun/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%23"></a>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaopaulorun/github-explorer">
+  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaopaulorun/github-explorer">
   <a href="https://github.com/joaopaulorun/github-explorer/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaopaulorun/github-explorer">
@@ -22,8 +22,7 @@
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
 </p>
 
 ## 👨🏻‍💻 About the project
@@ -32,9 +31,9 @@ This small web application was developed in order to study the main concepts of 
 
 I made the deploy on GitHub Pages, [access](https://joaopaulorun.github.io/github-explorer/) 📲
 
-<details><summary>Project Layout</summary>
-  ![github_explorer](https://user-images.githubusercontent.com/66692428/96113360-78e65900-0eba-11eb-9d81-a0bcb8288310.gif)
-</details>
+## Project Layout
+![github_explorer](https://user-images.githubusercontent.com/66692428/96113360-78e65900-0eba-11eb-9d81-a0bcb8288310.gif)
+
 
 ## 🚀 Technologies
 

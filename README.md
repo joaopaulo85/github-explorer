@@ -15,21 +15,20 @@
   </a>
   <a href="https://github.com/joaopaulorun/github-explorer/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/joaopaulorun/github-explorer"></a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/joaopaulorun/github-explorer">
+  <img alt="GitHub" src="https://img.shields.io/github/license/joaopaulu/github-explorer">
 </p>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-getting-started">Getting started</a>  
 </p>
 
 ## 👨🏻‍💻 About the project
 
 This small web application was developed in order to study the main concepts of ReactJS. In a simple way, it allows registering and listing repositories, in addition to providing some information about it.
 
-I made the deploy on GitHub Pages, [access](https://joaopaulorun.github.io/github-explorer/) 📲
+I made the deploy on GitHub Pages, [access](https://joaopaulu.github.io/github-explorer/) 📲
 
 ## Project Layout
 ![github_explorer](https://user-images.githubusercontent.com/66692428/96113360-78e65900-0eba-11eb-9d81-a0bcb8288310.gif)
@@ -59,7 +58,7 @@ Technologies that I used to develop this web application
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/joaopaulorun/github-explorer.git && cd github-explorer
+$ git clone https://github.com/joaopaulu/github-explorer.git && cd github-explorer
 ```
 
 **Follow the steps below**
@@ -71,36 +70,3 @@ $ yarn
 # Start the client
 $ yarn start
 ```
-
-## 🤔 How to contribute
-
-**Make a fork of this repository**
-
-```bash
-# Fork using GitHub official command line
-# If you don't have the GitHub CLI, use the web site to do that.
-
-$ gh repo fork joaopaulorun/github-explorer
-```
-
-**Follow the steps below**
-
-```bash
-# Clone your fork
-$ git clone your-fork-url && cd github-explorer
-
-# Create a branch with your feature
-$ git checkout -b my-feature
-
-# Make the commit with your changes
-$ git commit -m 'feat: My new feature'
-
-# Send the code to your remote branch
-$ git push origin my-feature
-```
-
-After your pull request is merged, you can delete your branch
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
